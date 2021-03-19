@@ -1,0 +1,62 @@
+.prev-next-link {
+    margin-top: 70px;
+    
+}
+.prev-next-link a {
+    border-bottom: 1px #ddd solid;
+    display: block;
+    text-decoration: none;
+    padding: 14px 40px;
+    color: #95c2b6;
+    font-size: 1em;
+}
+
+.prev-next-link a:hover {
+    background-color: rgba(149,194,182,0.2);
+    color: white;
+    
+}
+
+.prev-next-link a:first-child {
+    border-top: 1px #ddd solid;
+}
+
+.prev-next-label {
+    font-size: .825rem;
+    color: rgb(51, 51, 51);
+    margin-bottom: 10px;
+}
+
+/* Arrows */
+.prev-link {
+    background: url(images/arrow-prev.svg) no-repeat 10px center;
+}
+
+.next-link {
+    background: url(images/arrow-next.svg) no-repeat right 10px center;
+}
+
+.prev-link,
+.next-link {
+    background-size: 16px 28px;
+}
+
+.thumb-wrap {
+    display: flex;
+}
+
+.thumb-wrap p {
+    margin: 0 0 0 16px;
+}
+
+.thumb-wrap img {
+    width: 80px;
+    height: 100%;
+    
+}
+
+.c-sidenav01__list a:hover {
+    background-color: rgba(149,194,182,0.2);
+    color: white;
+    
+}

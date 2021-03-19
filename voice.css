@@ -1,0 +1,52 @@
+.access-img {
+    background-image: url(../images/voicepage/voicetop@2x.png);
+    background-size: cover;
+    padding-bottom: 370px;
+    background-position: center;
+    margin-top: 20px;
+
+}
+
+.p-category-filter__tab {
+    background-color: #95c2b6;
+}
+
+.p-category-filter__tab {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+
+}
+
+.category-title {
+   
+    font-size: 1rem;
+    color: rgb(51, 51, 51);
+    background-color: #95c2b6;
+    display:inline; 
+    flex-basis: 25%;
+
+
+}
+
+.category-title a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-color:#95c2b6;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.p-category-filter__tab a:hover {
+    background-color: rgb(51, 51, 51);
+    
+}
+
+
+.voicemargin {
+    margin-top: 10px;
+}
